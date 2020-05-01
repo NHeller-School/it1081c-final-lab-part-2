@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="yelp.desktop" open-window-count="0" score="0" last-seen="1588365420"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="565" last-seen="1588372117"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="25" last-seen="1588372095"/>
+    <application id="firefox.desktop" open-window-count="0" score="355" last-seen="1588372093"/>
+  </context>
+</application-state>
